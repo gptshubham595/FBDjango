@@ -26,7 +26,8 @@ SECRET_KEY = 'pn4z=-6bp@e6bnjs#s-7q*+0d9e!f79r+uvs=!$lc!5-+_hbz-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS =  ['localhost', '127.0.0.1']
+
 
 
 # Application definition
@@ -40,6 +41,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     'allauth',
+    'django_extensions',
+    "sslserver",
     'allauth.account',
     'allauth.socialaccount',
     'allauth.socialaccount.providers.facebook',

@@ -1,0 +1,96 @@
+2021.02.11 02:37:38 LOG5[ui]: stunnel 5.56 on x86_64-pc-linux-gnu platform
+2021.02.11 02:37:38 LOG5[ui]: Compiled with OpenSSL 1.1.1c  28 May 2019
+2021.02.11 02:37:38 LOG5[ui]: Running  with OpenSSL 1.1.1f  31 Mar 2020
+2021.02.11 02:37:38 LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+2021.02.11 02:37:38 LOG5[ui]: Reading configuration from file /home/shubham/Desktop/FBDjango/stunnel/dev_https
+2021.02.11 02:37:38 LOG5[ui]: UTF-8 byte order mark not detected
+2021.02.11 02:37:38 LOG5[ui]: FIPS mode disabled
+2021.02.11 02:37:38 LOG5[ui]: Configuration successful
+2021.02.11 02:37:38 LOG5[ui]: Binding service [https] to :::8443: Address already in use (98)
+2021.02.11 02:40:06 LOG5[ui]: Terminated
+2021.02.11 02:40:06 LOG5[ui]: Terminating 1 service thread(s)
+2021.02.11 02:40:06 LOG5[ui]: Service threads terminated
+2021.02.11 02:40:48 LOG5[ui]: stunnel 5.56 on x86_64-pc-linux-gnu platform
+2021.02.11 02:40:48 LOG5[ui]: Compiled with OpenSSL 1.1.1c  28 May 2019
+2021.02.11 02:40:48 LOG5[ui]: Running  with OpenSSL 1.1.1f  31 Mar 2020
+2021.02.11 02:40:48 LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+2021.02.11 02:40:48 LOG5[ui]: Reading configuration from file /home/shubham/Desktop/FBDjango/stunnel/dev_https
+2021.02.11 02:40:48 LOG5[ui]: UTF-8 byte order mark not detected
+2021.02.11 02:40:48 LOG5[ui]: FIPS mode disabled
+2021.02.11 02:40:48 LOG5[ui]: Configuration successful
+2021.02.11 02:40:48 LOG5[ui]: Binding service [https] to :::8443: Address already in use (98)
+2021.02.11 02:45:55 LOG5[ui]: Terminated
+2021.02.11 02:45:55 LOG5[ui]: Terminating 1 service thread(s)
+2021.02.11 02:45:55 LOG5[ui]: Service threads terminated
+2021.02.11 02:46:36 LOG5[ui]: stunnel 5.56 on x86_64-pc-linux-gnu platform
+2021.02.11 02:46:36 LOG5[ui]: Compiled with OpenSSL 1.1.1c  28 May 2019
+2021.02.11 02:46:36 LOG5[ui]: Running  with OpenSSL 1.1.1f  31 Mar 2020
+2021.02.11 02:46:36 LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+2021.02.11 02:46:36 LOG5[ui]: Reading configuration from file /home/shubham/Desktop/FBDjango/stunnel/dev_https
+2021.02.11 02:46:36 LOG5[ui]: UTF-8 byte order mark not detected
+2021.02.11 02:46:36 LOG5[ui]: FIPS mode disabled
+2021.02.11 02:46:36 LOG5[ui]: Configuration successful
+2021.02.11 02:46:36 LOG5[ui]: Binding service [https] to :::8443: Address already in use (98)
+2021.02.11 02:47:10 LOG5[ui]: Terminated
+2021.02.11 02:47:10 LOG5[ui]: Terminating 1 service thread(s)
+2021.02.11 02:47:10 LOG5[ui]: Service threads terminated
+2021.02.11 02:47:31 LOG5[ui]: stunnel 5.56 on x86_64-pc-linux-gnu platform
+2021.02.11 02:47:31 LOG5[ui]: Compiled with OpenSSL 1.1.1c  28 May 2019
+2021.02.11 02:47:31 LOG5[ui]: Running  with OpenSSL 1.1.1f  31 Mar 2020
+2021.02.11 02:47:31 LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+2021.02.11 02:47:31 LOG5[ui]: Reading configuration from file /home/shubham/Desktop/FBDjango/stunnel/dev_https
+2021.02.11 02:47:31 LOG5[ui]: UTF-8 byte order mark not detected
+2021.02.11 02:47:31 LOG5[ui]: FIPS mode disabled
+2021.02.11 02:47:31 LOG5[ui]: Configuration successful
+2021.02.11 02:47:31 LOG5[ui]: Binding service [https] to :::8443: Address already in use (98)
+2021.02.11 02:48:15 LOG5[ui]: Terminated
+2021.02.11 02:48:15 LOG5[ui]: Terminating 1 service thread(s)
+2021.02.11 02:48:15 LOG5[ui]: Service threads terminated
+2021.02.11 02:48:44 LOG5[ui]: stunnel 5.56 on x86_64-pc-linux-gnu platform
+2021.02.11 02:48:44 LOG5[ui]: Compiled with OpenSSL 1.1.1c  28 May 2019
+2021.02.11 02:48:44 LOG5[ui]: Running  with OpenSSL 1.1.1f  31 Mar 2020
+2021.02.11 02:48:44 LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+2021.02.11 02:48:44 LOG5[ui]: Reading configuration from file /home/shubham/Desktop/FBDjango/stunnel/dev_https
+2021.02.11 02:48:44 LOG5[ui]: UTF-8 byte order mark not detected
+2021.02.11 02:48:44 LOG5[ui]: FIPS mode disabled
+2021.02.11 02:48:44 LOG5[ui]: Configuration successful
+2021.02.11 02:48:44 LOG5[ui]: Binding service [https] to :::443: Address already in use (98)
+2021.02.11 02:49:13 LOG5[ui]: stunnel 5.56 on x86_64-pc-linux-gnu platform
+2021.02.11 02:49:13 LOG5[ui]: Compiled with OpenSSL 1.1.1c  28 May 2019
+2021.02.11 02:49:13 LOG5[ui]: Running  with OpenSSL 1.1.1f  31 Mar 2020
+2021.02.11 02:49:13 LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+2021.02.11 02:49:13 LOG5[ui]: Reading configuration from file /home/shubham/Desktop/FBDjango/stunnel/dev_https
+2021.02.11 02:49:13 LOG5[ui]: UTF-8 byte order mark not detected
+2021.02.11 02:49:13 LOG5[ui]: FIPS mode disabled
+2021.02.11 02:49:13 LOG5[ui]: Configuration successful
+2021.02.11 02:49:13 LOG5[ui]: Binding service [https] to :::543: Address already in use (98)
+2021.02.11 02:49:36 LOG5[ui]: Terminated
+2021.02.11 02:49:36 LOG5[ui]: Terminating 1 service thread(s)
+2021.02.11 02:49:36 LOG5[ui]: Service threads terminated
+2021.02.11 02:49:39 LOG5[ui]: Terminated
+2021.02.11 02:49:39 LOG5[ui]: Terminating 1 service thread(s)
+2021.02.11 02:49:39 LOG5[ui]: Service threads terminated
+2021.02.11 02:51:05 LOG5[ui]: stunnel 5.56 on x86_64-pc-linux-gnu platform
+2021.02.11 02:51:05 LOG5[ui]: Compiled with OpenSSL 1.1.1c  28 May 2019
+2021.02.11 02:51:05 LOG5[ui]: Running  with OpenSSL 1.1.1f  31 Mar 2020
+2021.02.11 02:51:05 LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+2021.02.11 02:51:05 LOG5[ui]: Reading configuration from file /home/shubham/Desktop/FBDjango/stunnel/dev_https
+2021.02.11 02:51:05 LOG5[ui]: UTF-8 byte order mark not detected
+2021.02.11 02:51:05 LOG5[ui]: FIPS mode disabled
+2021.02.11 02:51:05 LOG5[ui]: Configuration successful
+2021.02.11 02:51:05 LOG5[ui]: Binding service [https] to :::8443: Address already in use (98)
+2021.02.11 02:52:41 LOG5[ui]: Terminated
+2021.02.11 02:52:41 LOG5[ui]: Terminating 1 service thread(s)
+2021.02.11 02:52:41 LOG5[ui]: Service threads terminated
+2021.02.11 02:53:00 LOG5[ui]: stunnel 5.56 on x86_64-pc-linux-gnu platform
+2021.02.11 02:53:00 LOG5[ui]: Compiled with OpenSSL 1.1.1c  28 May 2019
+2021.02.11 02:53:00 LOG5[ui]: Running  with OpenSSL 1.1.1f  31 Mar 2020
+2021.02.11 02:53:00 LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+2021.02.11 02:53:00 LOG5[ui]: Reading configuration from file /home/shubham/Desktop/FBDjango/stunnel/dev_https
+2021.02.11 02:53:00 LOG5[ui]: UTF-8 byte order mark not detected
+2021.02.11 02:53:00 LOG5[ui]: FIPS mode disabled
+2021.02.11 02:53:00 LOG5[ui]: Configuration successful
+2021.02.11 02:53:00 LOG5[ui]: Binding service [https] to :::8443: Address already in use (98)
+2021.02.11 02:54:25 LOG5[ui]: Terminated
+2021.02.11 02:54:25 LOG5[ui]: Terminating 1 service thread(s)
+2021.02.11 02:54:25 LOG5[ui]: Service threads terminated
